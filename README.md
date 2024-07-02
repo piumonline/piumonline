@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/piumonline" target="blank"><img src="https://img.shields.io/twitter/follow/piumonline?logo=twitter&style=for-the-badge" alt="piumonline" /></a> </p>
 
-- 🔭 I’m currently working on **realtor-clone**
-
-- 🌱 I’m currently learning **MERN stack**
-
 - 👯 I’m looking to collaborate on **free and open-source projects**
 
 - 📫 How to reach me **24piumal@gmail.com**
