@@ -16,11 +16,12 @@
 <a href="https://fb.com/piumonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piumonline" height="30" width="40" /></a>
 </p>
 
+<br/>
+<br/>
 
 
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=piumonline&theme=dark&hide_border=true)<br/>
+<h3 align="left">GitHub Stats</h3>
+![](https://nirzak-streak-stats.vercel.app/?user=piumonline&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piumonline&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
