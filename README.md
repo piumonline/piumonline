@@ -1,11 +1,12 @@
-<h2 align="center">🚀 Passionate Full Stack Developer from Sri Lanka</h2>
+<h2 align="center">👋 Hi, I'm Piumal Dhanawardhana — Full Stack Developer from Sri Lanka 🚀</h2>
 
-👋 Hey there! I’m **Piumal Dhanawardhana**, a **Full Stack Software Engineer** with over **2.5 years of hands-on experience** building scalable and high-performance **SaaS applications** and **web platforms**.  
+I’m a **Full Stack Engineer** with over **2.5 years of industry experience** building **SaaS platforms** and **web applications**.  
+I work mainly with **React**, **Next.js**, and **TypeScript** on the frontend, and **Node.js**, **Nest.js**, and the **T3 Stack** on the backend.  
 
-💻 My main focus is **front-end development** using **React**, **Next.js**, and **TypeScript**, where I craft **clean, responsive**, and **SEO-optimized** user interfaces.  
-⚙️ On the back end, I work with **Node.js**, **Nest.js**, and the **T3 Stack** to build reliable, maintainable, and secure server-side systems that power seamless user experiences.  
+I focus on creating **clean, fast**, and **user-friendly** products that scale.  
+Passionate about **problem-solving**, **UI/UX design**, and **continuous improvement**.  
 
-Throughout my career, I’ve contributed to multiple end-to-end product deliveries — from **UI design and API integration** to **CI/CD pipelines**, **Docker containerization**, and **cloud deployment**. I bring a strong focus on **problem-solving**, **performance**, and **user-centered design**, always striving to write clean and purposeful code.  
+💡 I’m **open to collaborating on open-source projects**
 
 ---
 
@@ -16,12 +17,10 @@ Throughout my career, I’ve contributed to multiple end-to-end product deliveri
 <a href="https://linkedin.com/in/piumal-dhanawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piumal-dhanawardhana" height="30" width="40" /></a>
 <a href="https://kaggle.com/piumaldhanawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="piumaldhanawardhana" height="30" width="40" /></a>
 </p>
-
-<br/>
 <br/>
 
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Stats:</h3>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=piumonline&theme=dark&hide_border=true)
 
