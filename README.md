@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Piumal Dhanawardhana</h1>
-<h3 align="center">A passionate software developer based in Sri Lanka</h3>
+<h2 align="center">🚀 Passionate Full Stack Developer from Sri Lanka</h2>
 
-<p align="left"> <a href="https://twitter.com/piumonline" target="blank"><img src="https://img.shields.io/twitter/follow/piumonline?logo=twitter&style=for-the-badge" alt="piumonline" /></a> </p>
+👋 Hey there! I’m **Piumal Dhanawardhana**, a **Full Stack Software Engineer** with over **2.5 years of hands-on experience** building scalable and high-performance **SaaS applications** and **web platforms**.  
 
-A passionate Full Stack Engineer with over 2.5 years of industry experience developing scalable, high quality SaaS applications and web platforms. I specialize in front-end development using React, Next.js, and TypeScript, crafting clean, responsive, and SEO optimized interfaces. Alongside my frontend focus, I also work with Nest.js, Node.js, and the T3 Stack to build reliable backend systems that power seamless user experiences. I’ve contributed to delivering multiple end-to-end SaaS products, from UI development and API integration to CI/CD deployment and containerization with Docker. I bring a strong problem solving mindset, adaptability, and a love for clean, user centered design.
+💻 My main focus is **front-end development** using **React**, **Next.js**, and **TypeScript**, where I craft **clean, responsive**, and **SEO-optimized** user interfaces.  
+⚙️ On the back end, I work with **Node.js**, **Nest.js**, and the **T3 Stack** to build reliable, maintainable, and secure server-side systems that power seamless user experiences.  
 
-<h3 align="left">Connect with me:</h3>
+Throughout my career, I’ve contributed to multiple end-to-end product deliveries — from **UI design and API integration** to **CI/CD pipelines**, **Docker containerization**, and **cloud deployment**. I bring a strong focus on **problem-solving**, **performance**, and **user-centered design**, always striving to write clean and purposeful code.  
+
+---
+
+<h3 align="left">🤝 Connect with me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/piumonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piumonline" height="30" width="40" /></a>
